@@ -3,4 +3,4 @@ __pycache__/
 *.pt
 *.pth
 *.ckpt
-slm_demo.html
+# slm_demo.html  (tracked so it can be served via htmlpreview)
